@@ -12,3 +12,8 @@
 body {
     font-family: "Vazir" !important;
 }
+
+#carousel img {
+    height: 60vh;
+    object-fit: cover;
+}

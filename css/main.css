@@ -36,3 +36,9 @@ body {
     height: 80vh;
     object-fit: cover;
 }
+
+#comment-carousel img{
+    width: 125px;
+    height: 125px;
+    object-fit: cover;
+}
